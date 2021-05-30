@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m currently learning HTML. ( I know, It's not a language...)
 - 💞️ I’m looking to collaborate on everything I've got. hahahaha
-- 📫 How to reach me @nitroriser
+- 📫 How to reach me @nitroriser on Twitter.
 
 <!---
 NitroRiser/NitroRiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
