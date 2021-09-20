@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitroRiser
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning HTML and CSS. ( I know, It's not a language...)
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on everything I've got. hahahaha
 - 📫 How to reach me @nitroriser on Twitter.
 
